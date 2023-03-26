@@ -1,2 +1,3 @@
-# ecommerce---backup
-ecommerce app test for hosting on vercel
+# ecommerce-harry
+Ecommerce project using Django
+Copied from Harry Bhai coding channel!
